@@ -1206,13 +1206,7 @@ Huge thanks to these wonderful people, who sponsor me on GitHub, their support h
             <td align="center">
                 <a href="https://github.com/mryesiller">
                     <img src="https://avatars.githubusercontent.com/u/24632172?u=0d20f2d615158f87cd60a3398d3efb026c32f291&v=4" width="80;" alt="mryesiller"/>
-                    <br />
-                    <sub><b>Göksel Yeşiller</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/sushibait">
-                    <img src="https://avatars.githubusercontent.com/u/26634535?v=4" width="80;" alt="sushibait"/>
+
                     <br />
                     <sub><b>Shiverme Timbers</b></sub>
                 </a>
@@ -1238,15 +1232,7 @@ Huge thanks to these wonderful people, who sponsor me on GitHub, their support h
                     <sub><b>Bastii717</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
-            <td align="center">
-                <a href="https://github.com/getumbrel">
-                    <img src="https://avatars.githubusercontent.com/u/59408891?v=4" width="80;" alt="getumbrel"/>
-                    <br />
-                    <sub><b>Umbrel</b></sub>
-                </a>
-            </td>
+
             <td align="center">
                 <a href="https://github.com/frankdez93">
                     <img src="https://avatars.githubusercontent.com/u/87549420?v=4" width="80;" alt="frankdez93"/>
@@ -1254,6 +1240,8 @@ Huge thanks to these wonderful people, who sponsor me on GitHub, their support h
                     <sub><b>Frankdez93</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/terminaltrove">
                     <img src="https://avatars.githubusercontent.com/u/121595180?v=4" width="80;" alt="terminaltrove"/>
@@ -1277,7 +1265,7 @@ Huge thanks to these wonderful people, who sponsor me on GitHub, their support h
             </td>
             <td align="center">
                 <a href="https://github.com/hudsonrock-partnerships">
-                    <img src="https://avatars.githubusercontent.com/u/163282900?u=5f2667f7fe5d284ac7a2da6b0800ea8970b0fcbf&v=4" width="80;" alt="hudsonrock-partnerships"/>
+
                     <br />
                     <sub><b>hudsonrock-partnerships</b></sub>
                 </a>
